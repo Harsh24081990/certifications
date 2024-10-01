@@ -15,7 +15,7 @@ https://learn.microsoft.com/en-us/credentials/certifications/resources/study-gui
 ---------------------------------------------------------------------
 
 ### Resource Group
-determine who owns which resource. \e
+determine who owns which resource. <br>
 You need to use resource groups to organize the company's Azure resources.
 
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/0a1d876c-db7b-493f-9a52-e2c87e023efb">
